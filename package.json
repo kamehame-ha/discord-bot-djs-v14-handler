@@ -1,0 +1,23 @@
+{
+  "name": "djs-v.14-handler",
+  "version": "1.0.0",
+  "description": "Exclusive, structure based global slash command handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .",
+    "build": "tsc"
+  },
+  "author": "kameHame HA",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/glob": "^8.0.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.7.1",
+    "glob": "^8.0.3",
+    "moment": "^2.29.4"
+  },
+  "dependencies": {
+    "mongoose": "^6.8.2",
+    "ms": "^2.1.3"
+  }
+}
