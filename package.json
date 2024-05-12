@@ -12,7 +12,6 @@
   "devDependencies": {
     "@types/glob": "^8.0.0",
     "chalk": "^4.1.2",
-    "discord.js": "^14.14.1",
     "glob": "^8.0.3",
     "moment": "^2.29.4"
   },
